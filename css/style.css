@@ -139,7 +139,7 @@ iframe{
     .youtube {
         text-align: center;
     }
-    iframe{
+    .youtube iframe{
         width: 440px;
         height: 335px;
     }
