@@ -24,7 +24,7 @@ nav .menu-img{
     cursor: pointer;
 }
 nav .logo{
-    width: 150px;
+    width: 160px;
     cursor: pointer;
 }
 nav ul{
@@ -129,6 +129,9 @@ button span{
     opacity: 1;
 }
 .youtube {
-    margin-top: 10px;
-    margin-left: 22%;
+    text-align: center;
+}
+iframe{
+    width: 800px;
+    height: 450px;
 }
